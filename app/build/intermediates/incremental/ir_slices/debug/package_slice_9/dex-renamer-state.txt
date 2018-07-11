@@ -1,0 +1,4 @@
+#Wed Jul 11 10:06:12 PDT 2018
+base.0=/Users/achalker/Desktop/projects/BitsandPizza/app/build/intermediates/transforms/dexMerger/debug/352
+path.0=classes.dex
+renamed.0=classes.dex
